@@ -1,0 +1,14 @@
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\bin\Debug\netcoreapp2.1\AppServicesLessonAzure.deps.json
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\bin\Debug\netcoreapp2.1\AppServicesLessonAzure.runtimeconfig.json
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\bin\Debug\netcoreapp2.1\AppServicesLessonAzure.runtimeconfig.dev.json
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\bin\Debug\netcoreapp2.1\AppServicesLessonAzure.dll
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\bin\Debug\netcoreapp2.1\AppServicesLessonAzure.pdb
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.csprojAssemblyReference.cache
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.csproj.CoreCompileInputs.cache
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.RazorAssemblyInfo.cache
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.RazorAssemblyInfo.cs
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.AssemblyInfoInputs.cache
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.AssemblyInfo.cs
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.RazorTargetAssemblyInfo.cache
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.dll
+C:\Users\Yevhenii\Downloads\microsoft-azure-implementing-web-mobile-services-update\01\AppServicesLessonAzure\obj\Debug\netcoreapp2.1\AppServicesLessonAzure.pdb
